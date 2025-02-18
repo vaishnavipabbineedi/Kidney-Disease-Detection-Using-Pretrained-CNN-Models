@@ -58,9 +58,6 @@ pip install tensorflow keras numpy pandas matplotlib seaborn opencv-python
 - Implementing additional pre-trained models like EfficientNet and DenseNet.
 - Improving misclassification of tumor cases by refining model architectures.
 
-## License
-This project is open-source and available for educational and research purposes.
-
 ---
 **Note:** Ensure compliance with medical data privacy and ethical considerations when using this model in real-world applications.
 
